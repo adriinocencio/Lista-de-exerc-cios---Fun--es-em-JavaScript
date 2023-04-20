@@ -3,7 +3,11 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-h2 {
-    font-size: 22px;
+h3 {
+    font-size: 25px;
+}
+
+br {
+    margin-bottom: 10px;
 }
 
